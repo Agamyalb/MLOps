@@ -1,4 +1,3 @@
-%%writefile .github/workflows/ci.yml
 name: MLOps CI/CD
 
 on:
